@@ -469,39 +469,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\OLUOGU\\.nuget\\packages\\": {},
-    "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/tobi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OLUOGU\\Desktop\\Personal\\Repos\\InternationalStudent\\InternationalStudent.csproj",
+      "projectUniqueName": "/Users/tobi/Desktop/C#_learn/InternationalStudent/InternationalStudent.csproj",
       "projectName": "InternationalStudent",
-      "projectPath": "C:\\Users\\OLUOGU\\Desktop\\Personal\\Repos\\InternationalStudent\\InternationalStudent.csproj",
-      "packagesPath": "C:\\Users\\OLUOGU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OLUOGU\\Desktop\\Personal\\Repos\\InternationalStudent\\obj\\",
+      "projectPath": "/Users/tobi/Desktop/C#_learn/InternationalStudent/InternationalStudent.csproj",
+      "packagesPath": "/Users/tobi/.nuget/packages/",
+      "outputPath": "/Users/tobi/Desktop/C#_learn/InternationalStudent/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\OLUOGU\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/tobi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://dnvgl-one.pkgs.visualstudio.com/_packaging/Plant/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
@@ -547,7 +533,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }
